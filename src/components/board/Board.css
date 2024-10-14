@@ -1,0 +1,7 @@
+.Board {
+  display: flex;
+  width: 1000px;
+  height: 600px;
+  background-color: teal;
+  margin: 20px;
+}
